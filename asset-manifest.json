@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ohmumuk/static/css/main.d9342764.chunk.css",
+    "main.js": "/ohmumuk/static/js/main.974c6803.chunk.js",
+    "main.js.map": "/ohmumuk/static/js/main.974c6803.chunk.js.map",
+    "runtime-main.js": "/ohmumuk/static/js/runtime-main.7dc4764a.js",
+    "runtime-main.js.map": "/ohmumuk/static/js/runtime-main.7dc4764a.js.map",
+    "static/js/2.4ee0d32d.chunk.js": "/ohmumuk/static/js/2.4ee0d32d.chunk.js",
+    "static/js/2.4ee0d32d.chunk.js.map": "/ohmumuk/static/js/2.4ee0d32d.chunk.js.map",
+    "index.html": "/ohmumuk/index.html",
+    "static/css/main.d9342764.chunk.css.map": "/ohmumuk/static/css/main.d9342764.chunk.css.map",
+    "static/js/2.4ee0d32d.chunk.js.LICENSE.txt": "/ohmumuk/static/js/2.4ee0d32d.chunk.js.LICENSE.txt",
+    "static/media/main.module.scss": "/ohmumuk/static/media/NotoSansKR-Regular.e95adf0e.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc4764a.js",
+    "static/js/2.4ee0d32d.chunk.js",
+    "static/css/main.d9342764.chunk.css",
+    "static/js/main.974c6803.chunk.js"
+  ]
+}

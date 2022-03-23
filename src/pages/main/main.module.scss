@@ -1,0 +1,50 @@
+@import '../../styles/main.scss';
+
+@keyframes chopstick {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(40deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #bc3f3f;
+
+  h1 {
+    color: $white;
+    font-size: 4.5rem;
+    font-weight: 200;
+    position: absolute;
+    left: 100px;
+    top: 28vh;
+    letter-spacing: 10px;
+
+    span {
+      font-weight: 700;
+    }
+  }
+  .hand {
+    width: 70vh;
+    position: absolute;
+    left: 50px;
+    bottom: 0;
+
+    img {
+      display: block;
+      width: 100%;
+    }
+    .chopstick {
+      position: absolute;
+      left: 0;
+      top: 0;
+      animation-name: chopstick 1s linear;
+    }
+  }
+}

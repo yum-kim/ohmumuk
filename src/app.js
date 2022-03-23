@@ -1,8 +1,9 @@
 import './App.css';
+import Main from './pages/main/main';
 
 function App() {
   return (
-    <h1>ohmumuk</h1>
+    <Main />
   );
 }
 
